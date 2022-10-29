@@ -334,7 +334,7 @@ p {
 }
 
 .progress-line .c::after {
-    content: "90%";
+    content: "75%";
 }
 
 .interest ul {
